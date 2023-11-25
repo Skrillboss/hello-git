@@ -1,1 +1,1 @@
-print('new Hello world!')
+print('new Hello GitHub!')
